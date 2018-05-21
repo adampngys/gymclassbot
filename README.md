@@ -1,2 +1,5 @@
 # gymclassbot
-This bot automatically logs on to the True Fitness class reservation website, finds and registers the desired class, and sends out an email to update on reservation status (Booked / Waitlisted / Class Full).
+This bot 
+1) automatically logs on to the True Fitness website, 
+2) attempts to find and register the desired class around the time reservation opens,
+3) and sends out an email on the status (Booked / Waitlisted / Class Full) at completion.
