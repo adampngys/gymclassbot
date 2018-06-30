@@ -1,6 +1,5 @@
 # gymclassbot
-What id does:
-This bot 
+This bot
 1) logs on to the True Fitness website;
 2) attempts to find and register the desired class around the time reservation opens;
 3) sends out an email on the status (Class Booked) at completion;
@@ -18,7 +17,7 @@ Specs:
 9) Details of your target class: Gym Location, Studio Type, Class Name, Instructor Name, Class Timeslot
 10) Access to Task Scheduler
 
-How to make it work:
+Steps:
 1) Update the <ENTER YOUR...> fields in the Python file with your info.
 2) Do a test run to ensure you are able to use Selenium's Webdriver to log in to the website.
 (If you were unsure of the class details, check against View Source when the program logs you into the website.)
