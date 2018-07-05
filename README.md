@@ -1,5 +1,5 @@
 # gymclassbot
-This bot
+This script
 1) logs on to the True Fitness website;
 2) attempts to find and register the desired class around the time reservation opens;
 3) sends out an email on the status (Class Booked) at completion;
